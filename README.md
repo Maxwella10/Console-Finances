@@ -3,7 +3,9 @@
 Code for analyzing the financial records of a company.
 
 
-About
+## About
+
+
 Given: a dataset composed of arrays with two fields, Date and Profit/Losses.
 
 Task: write JavaScript code that analyzes the records to calculate each of the following:
