@@ -21,3 +21,23 @@ Task: write JavaScript code that analyzes the records to calculate each of the f
  The greatest decrease in profits (date and amount) over the entire period.
 
 All data to be logged in console.
+
+
+
+Obtained information and snippets:
+
+Main functions
+
+Sum in arrays: 1,2,3
+Index of max value in array: 1
+Snippet for average difference calculations (Array.reduce) .
+Extras
+
+Difference between two dates
+Numbers format
+Licence
+Licenced under the MIT license.
+
+Image of github-profile-views-counter
+
+Copyright © 2023 Maxwell Acha
